@@ -1,1 +1,0 @@
-Nueva anotación agregada para probar commit y restauración.
