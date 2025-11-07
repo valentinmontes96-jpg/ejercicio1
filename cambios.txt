@@ -1,0 +1,2 @@
+Este archivo fue creado desde la terminal de VS Code.
+Nueva línea agregada desde VS Code
